@@ -1,0 +1,35 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #239b91;
+}
+
+
+#scoreBox {
+    display: block;
+    background-color: rgb(22, 139, 143);
+    display: inline-block;
+    width: 35vh;
+    margin: 6px;
+}
+
+
+#quizContainer {
+    text-align: center;
+    padding: 12vh;
+}
+
+
+button {
+    background-color: #b9112d;
+    color: white;
+    border-radius: 5px;
+    padding: 8px 14px 8px 14px;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 2px ;
+}
+
+
+#quiz {
+    text-align: center;
+}
